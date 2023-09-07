@@ -1,0 +1,30 @@
+.currency-converter {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    width: 80px;
+  }
+  
+  .currency-select,
+  .amount-input {
+    padding: 5px;
+  }
+  
+  .convert-button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+  }
+  
